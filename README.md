@@ -1,8 +1,34 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricar0)
+<div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ricar0&left_color=green&right_color=red)
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+  
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricar0)
+  
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="[https://www.peterjxl.com/](https://blog.csdn.net/kaka03200?spm=1000.2115.3001.5343)"><img src="https://img.shields.io/badge/CSDN-8c36db" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=ricar0&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg"> -->
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg"> -->
+  <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg"> -->
+<!-- </picture> -->
+
+</div>
+
 
 ![Metrics](/github-metrics.svg)
 
