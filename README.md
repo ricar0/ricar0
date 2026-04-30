@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricar0)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ricar0&left_color=green&right_color=red)
+
 ![Metrics](/github-metrics.svg)
 
 <!--
