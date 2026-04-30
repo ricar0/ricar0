@@ -19,18 +19,18 @@
     <a href="[https://www.peterjxl.com/](https://blog.csdn.net/kaka03200?spm=1000.2115.3001.5343)"><img src="https://img.shields.io/badge/CSDN-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=ricar0&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
-
+  
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <!-- <picture> -->
   <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg"> -->
   <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg"> -->
   <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg"> -->
 <!-- </picture> -->
-
+  ![Metrics](/github-metrics.svg)
 </div>
 
 
-![Metrics](/github-metrics.svg)
+
 
 <!--
 **ricar0/ricar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
