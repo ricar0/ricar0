@@ -2,21 +2,20 @@
 
 <div align="center">
 
-  <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
   
-  <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricar0)
   
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.csdn.net/kaka03200?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Website-CSDN-8c36db" /></a>&emsp;
+    <a href="https://space.bilibili.com/218014560"><img src="https://img.shields.io/badge/Bilibili-realmkaka-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/kaka03200"><img src="https://img.shields.io/badge/Website-CSDN-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=ricar0&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
   
@@ -41,7 +40,6 @@
 <p>&emsp;&emsp;Outside of research, I enjoy animate📺, gaming 🎮, working out 💪, and listening to music 🎧.</p>
 
 
-  <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
 </td></tr>
