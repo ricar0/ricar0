@@ -26,7 +26,11 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricar0/ricar0/output/github-contribution-grid-snake.svg">
   </picture>
   
-  ![Metrics](/github-metrics.svg)
+  I'm a Master's student focusing on Multimodal Large Language Models, LLM inference acceleration, and efficient/lightweight model design. My research interests center on improving the efficiency and scalability of large models in real-world applications.
+
+From Feb 2025 to Apr 2026, I worked as an intern in the Multimodal Post-Training Team at Li Auto, where I gained hands-on experience in optimizing and deploying multimodal systems.
+
+Outside of research, I enjoy gaming 🎮, working out 💪, and listening to music 🎧.
 </div>
 
 
