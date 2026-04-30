@@ -16,7 +16,7 @@
   
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="[https://www.peterjxl.com/](https://blog.csdn.net/kaka03200?spm=1000.2115.3001.5343)"><img src="https://img.shields.io/badge/CSDN-8c36db" /></a>&emsp;
+    <a href="https://blog.csdn.net/kaka03200?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=ricar0&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
   
