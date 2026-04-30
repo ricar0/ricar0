@@ -25,12 +25,30 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricar0/ricar0/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricar0/ricar0/output/github-contribution-grid-snake.svg">
   </picture>
+
+  #  🙋 Hello
+
+<table>
   
-  I'm a Master's student focusing on Multimodal Large Language Models, LLM inference acceleration, and efficient/lightweight model design. My research interests center on improving the efficiency and scalability of large models in real-world applications.
+<tr><td>
 
-From Feb 2025 to Apr 2026, I worked as an intern in the Multimodal Post-Training Team at Li Auto, where I gained hands-on experience in optimizing and deploying multimodal systems.
+### 🤺 About Me
 
-Outside of research, I enjoy gaming 🎮, working out 💪, and listening to music 🎧.
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+
+<p>&emsp;&emsp;I'm a Master's student focusing on Multimodal Large Language Models, LLM inference acceleration, and efficient/lightweight model design. My research interests center on improving the efficiency and scalability of large models in real-world applications.</p>
+<p>&emsp;&emsp;From Feb 2025 to Apr 2026, I worked as an intern in the Multimodal Post-Training Team at Li Auto, where I gained hands-on experience in optimizing and deploying multimodal systems.
+</p>
+<p>&emsp;&emsp;<strong>Outside of research, I enjoy animate📺, gaming 🎮, working out 💪, and listening to music 🎧.</strong></p>
+
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+
 </div>
 
 
