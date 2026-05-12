@@ -10,7 +10,7 @@
   
   <div>&nbsp;</div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricar0)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricar0) -->
   
 <!-- profile logo 个人资料徽标 -->
   <div>
